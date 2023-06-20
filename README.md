@@ -5,13 +5,12 @@ My name is Tuân, currently, I am on the way to becoming a Data Engineer. I have
 
 ### :rocket: Technical stack
 
-- Python
+- Python, Java, C/C++, Swift
 - Apache Spark, Kafka, Cassandra
-- GCP
-- Bash Script
-- Terraform
-- Gitlab CI
-- Monitoring: Grafana
+- GCP: Pub/Sub, DataFlow, BigQuery, Cloud Storage, DataPlex.
+- Terraform, Bash Script, Ansible
+- GitLab CI
+- Monitoring: Grafana, Dashboard: Looker Studio
 - Docker
 - Linux
 
