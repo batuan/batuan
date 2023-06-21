@@ -2,7 +2,7 @@
 
 My name is Tuân, currently, I am on the way to becoming a Data Engineer. I have a master's degree in Artificial Intelligence, Systems, and Data from [PSL University](https://www.lamsade.dauphine.fr/wp/iasd/en/). 
 
-### :rocket: Technical stack
+### 🚀 Technical stack
 <td>
   <ul>
   <li>
@@ -19,13 +19,13 @@ My name is Tuân, currently, I am on the way to becoming a Data Engineer. I have
   <li>Docker, Linux</li>
 </td>
 
-## :muscle: Personal projects
+## 💪 Personal projects
 
 I am spending some time on the following projects:
 
 - [IoT automobile](https://github.com/batuan/project_iot_automobile): My first data pipeline for IoT connected device. In this project, I monitor data from automobile, and save the data to Big database. I have 2 solutions: GCP and Open-Source. You can check my source code (almost bash script and terraform)
 - [MLOps zoomcampt](https://github.com/batuan/mlops-zoomcamp): An bootcamp from [Datatalk club](https://datatalks.club/), in this boot camp I will learn how to deploy an end-to-end Machine Learning model. I will update homework and project regularly.
-- TIAD: a NLP contest that I participated in 2021.
+- [TIAD](https://github.com/batuan/TER_TIAD_2021): an NLP contest that I participated in 2021.
 
 ## 📖 Books:
 
