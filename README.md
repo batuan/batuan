@@ -2,17 +2,22 @@
 
 My name is Tuân, currently, I am on the way to becoming a Data Engineer. I have a master's degree in Artificial Intelligence, Systems, and Data from [PSL University](https://www.lamsade.dauphine.fr/wp/iasd/en/). 
 
-
 ### :rocket: Technical stack
-
-- Python, Java, C/C++, Swift
-- Apache Spark, Kafka, Cassandra
-- GCP: Pub/Sub, DataFlow, BigQuery, Cloud Storage, DataPlex.
-- Terraform, Bash Script, Ansible
-- GitLab CI
-- Monitoring: Grafana, Dashboard: Looker Studio
-- Docker
-- Linux
+<td>
+  <ul>
+  <li>
+    Programming Languages
+    <ul>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=batuan&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="batuan" />
+    </ul>
+  </li>
+  <li>Data Technologies: Apache Spark, Kafka, Cassandra, LakeHouse</li>
+  <li>GCP Services: Pub/Sub, DataFlow, BigQuery, Cloud Storage, DataPlex</li>
+  <li>Deployment and Automation: Terraform, Bash Script, Ansible, GitLab CI</li>
+  <li>Monitoring: Grafana</li>
+  <li>Dashboard: Looker Studio</li>
+  <li>Docker, Linux</li>
+</td>
 
 ## :muscle: Personal projects
 
