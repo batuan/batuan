@@ -17,6 +17,7 @@ My name is Tuân, currently, I am on the way to becoming a Data Engineer. I have
   <li>Monitoring: Grafana</li>
   <li>Dashboard: Looker Studio</li>
   <li>Docker, Linux</li>
+  </ul>
 </td>
 
 ## 💪 Personal projects
