@@ -2,7 +2,7 @@
 
 My name is Tuân, currently, I am on the way to becoming a Data Engineer. I have a master's degree in Artificial Intelligence, Systems, and Data from [PSL University](https://www.lamsade.dauphine.fr/wp/iasd/en/). 
 
-### 🚀 Technical stack
+## 🚀 Technical stack
 <td>
   <ul>
   <li>
